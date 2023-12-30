@@ -1,0 +1,15 @@
+/* styles.css */
+body {
+    font-family: 'Arial', sans-serif;
+    /* Otros estilos generales */
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem;
+    text-align: center;
+    /* Otros estilos para el encabezado */
+}
+
+/* Otros estilos para las secciones y elementos específicos */
